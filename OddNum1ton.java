@@ -17,14 +17,3 @@ public class OddNum1ton
              OddNum(n);
       }
 }
-
-
-
-
-
-
-
-
-
-
-
