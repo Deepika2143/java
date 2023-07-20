@@ -1,3 +1,5 @@
+//statement:To check User is Eligible to Vote or not.
+
 import java.util.*;
 public class EligiVOTE
 {
