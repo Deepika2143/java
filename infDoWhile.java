@@ -1,3 +1,4 @@
+//Create an infinite loop Using do-while loop in java
 import java.util.*;
 public class infDoWhile
 {
